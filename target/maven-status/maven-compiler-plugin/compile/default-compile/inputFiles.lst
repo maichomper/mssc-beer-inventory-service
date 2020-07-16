@@ -1,0 +1,9 @@
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInvntoryBootstrap.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/Users/micho/Documents/cuervo/sitios/spring-micro/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
